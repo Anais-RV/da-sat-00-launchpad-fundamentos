@@ -1,5 +1,11 @@
 # 🚀 Launchpad — Fundamentos para el Despegue
 
+> Satélite 0 | Preparación inicial  
+> Bootcamp de Data Analyst — 16 semanas intensivas  
+> Autoría: Anaïs Rodríguez Villanueva
+
+---
+
 Bienvenida a **Launchpad**, tu espacio de preparación antes de comenzar el viaje del análisis de datos.
 
 Aquí no vas a analizar datos todavía. Aquí vas a **prepararte** para hacerlo con seguridad, claridad y sin miedo.
