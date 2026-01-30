@@ -6,6 +6,12 @@
 
 ---
 
+**Antes de lanzarse al cosmos, todo explorador necesita preparación.**
+
+Launchpad es tu plataforma de lanzamiento: el lugar donde se comprenden las reglas del viaje, donde la curiosidad encuentra su primer lenguaje y donde los conceptos abstractos empiezan a materializarse. No hay datos aún, solo preguntas que nacen.
+
+---
+
 Bienvenida a **Launchpad**, tu espacio de preparación antes de comenzar el viaje del análisis de datos.
 
 Aquí no vas a analizar datos todavía. Aquí vas a **prepararte** para hacerlo con seguridad, claridad y sin miedo.
