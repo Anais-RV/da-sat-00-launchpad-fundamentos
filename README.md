@@ -110,15 +110,32 @@ Este viaje no es solo tuyo. Tus compañeras también están aprendiendo. Ayudar 
 
 ## 📂 Estructura de este satélite
 
-```
-📁 00-orientacion-general/          ← Empieza aquí
-📁 01-que-es-programar/             ← Qué significa "dar instrucciones a una máquina"
-📁 02-que-es-trabajar-con-datos/    ← Qué hacen las personas que analizan datos
-📁 03-herramientas-que-apareceran/  ← Python, Git, VS Code... ¿para qué sirven?
-📁 04-como-sera-el-viaje/           ← Qué viene después de Launchpad
-```
+### 📚 Contenidos Conceptuales (Leer y Reflexionar)
 
-Puedes leerlo en orden o saltar a lo que más curiosidad te dé.  
+- **[00-orientacion-general](./00-orientacion-general/)** — Empieza aquí: cómo funciona este bootcamp
+- **[01-que-es-programar](./01-que-es-programar/)** — Qué significa "dar instrucciones a una máquina" (sin código)
+- **[02-que-es-trabajar-con-datos](./02-que-es-trabajar-con-datos/)** — Qué hacen las personas que analizan datos
+- **[03-herramientas-que-apareceran](./03-herramientas-que-apareceran/)** — Python, Git, VS Code... ¿para qué sirven?
+- **[04-como-sera-el-viaje](./04-como-sera-el-viaje/)** — Qué viene después de Launchpad
+- **[05-preparar-el-entorno](./05-preparar-el-entorno/)** — Instalar las herramientas básicas en tu ordenador
+
+### 🔧 Práctica Opcional (No Evaluable)
+
+- **[09-taller: Git & GitHub](./09-taller/)** — Taller práctico de 30 min para familiarizarte con control de versiones
+
+### ⏰ Trabajo Autónomo
+
+Durante el bootcamp, tendrás tiempo de trabajo autónomo. Las formadoras estarán trabajando en otras cosas pero disponibles para urgencias:
+
+- **[Trabajo autónomo de los martes](./trabajo-autonomo-martes.md)** — Qué hacer todos los martes durante la reunión pedagógica (12:00-13:00)
+- **Todos los días 13:45-15:30** — Bloque 3 de trabajo autónomo (formadoras disponibles solo para urgencias)
+
+💡 **El objetivo**: ganar autonomía desde el principio. Aprender a resolver problemas por ti misma, buscar información, trabajar sin supervisión constante. Esto es parte fundamental del aprendizaje.
+
+---
+
+**¿Por dónde empezar?**  
+Lee en orden si quieres contexto completo, o salta directamente a lo que te genere curiosidad.  
 No hay un camino único. No hay forma de hacerlo mal.
 
 ---
